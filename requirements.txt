@@ -1,0 +1,13 @@
+numpy
+pandas
+joblib
+
+scikit-learn
+
+kafka-python
+
+psycopg2-binary
+
+streamlit
+plotly
+
