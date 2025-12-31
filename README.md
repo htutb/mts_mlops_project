@@ -1,3 +1,5 @@
+Уваров Николай Романович
+
 # Toxicity Detection Service
 
 ## Бизнес-ценность
