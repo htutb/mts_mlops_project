@@ -51,9 +51,16 @@
 
 ## Запуск проекта
 
-1. Требования
+0. Требования
 - Docker ≥ 20.x
 - Docker Compose ≥ 2.x
+
+1. Клонирование репозитория
+
+```bash
+git clone https://github.com/htutb/mts_mlops_project.git
+cd mts_mlops_project
+```
 
 2. Сборка и запуск сервисов
 ```bash
